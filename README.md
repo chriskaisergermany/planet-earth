@@ -120,6 +120,7 @@ List of interesting environment, climate change &amp; sustainability content.
 
 - Excellent tongue in cheek website illustrating the flaws in offsetting from [Climate Neutral](https://www.climate-neutral.org/)
 - Difficult to tell if [ClimateFutures](https://climatefutures.io/) are in it to help or just make a buck. 1Planet Blockchain sounds very suspicious...
+- [Click A Tree](https://clickatree.com/) Top rated B Corp serving all 17 SDGs. Click A Tree grows forests, collects ocean plastic, finances gender equality and much more
 - [Target2030](https://target2030.org/) is a charitable foundation focusing on tree planting and sustainability advocacy
 - [Choose](https://chooose.today/) offer offsetting subscriptions for individuals and businesses
 - [Trump Forest](https://trumpforest.com/) unfortunately now inactive but was a tree planting project aimed to combat (and probably annoy) the environmental policies of Trump
